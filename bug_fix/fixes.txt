@@ -1,1 +1,3 @@
 I am a fix file
+
+Added a new version and fixed bugs
