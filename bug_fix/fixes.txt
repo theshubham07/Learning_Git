@@ -1,2 +1,3 @@
 I am a fix file
 Fixed second bug
+Fixed third bug
