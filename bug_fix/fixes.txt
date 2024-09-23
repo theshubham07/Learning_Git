@@ -1,1 +1,2 @@
 I am a fix file
+Fixed second bug
