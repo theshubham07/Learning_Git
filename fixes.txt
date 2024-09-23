@@ -3,3 +3,4 @@ Fixed second bug
 Fixed third bug
 Fixed fourth bug
 Added a new version and fixed bugs
+Added pink_mode
